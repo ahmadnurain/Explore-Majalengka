@@ -256,7 +256,7 @@ const wisataData = [
     lokasi: "Munjul, Majalengka",
     deskripsi:
       "Paralayang menawarkan pengalaman terbang yang memukau dengan pemandangan alam yang spektakuler. Memungkinkan para pengunjung untuk terbang melintasi perbukitan dan sawah yang hijau. Aktivitas ini cocok bagi para pecinta olahraga ekstrim maupun mereka yang ingin menikmati panorama indah dari ketinggian. Paralayang Majalengka menjadi destinasi wisata yang menarik bagi wisatawan lokal maupun mancanegara. Terdapat fasilitas yang kumplit mulai dari area parkir luas, toilet, gazebo, kantin makanan/minuman.",
-    gambar: "/assets/Picturee1.jpg",
+    gambar: "/assets/Pictussre5.png",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 22:00" },
     },
