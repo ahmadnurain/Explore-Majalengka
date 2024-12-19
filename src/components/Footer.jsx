@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
 
         {/* Footer Bottom Text */}
-        <div className="text-center text-emerald-600 mt-8">&copy; 2024 Septian Kartadilaga. Semua Hak Cipta Dilindungi.</div>
+        <div className="text-center text-emerald-600 mt-8">&copy; 2024 Septian Nugraha Kartadilaga. Semua Hak Cipta Dilindungi.</div>
       </div>
     </footer>
   );
