@@ -28,11 +28,14 @@ const Navbar = () => {
 
   const isDestinationsPage = location.pathname.startsWith("/destination/");
   const isDestinationsRoute = location.pathname === "/destinations";
+  const isHomeRoute = location.pathname === "/";
 
   const navbarClass = isDestinationsPage || isDestinationsRoute || isScrolled ? "bg-white text-gray-600 shadow-md" : "bg-transparent text-white";
 
   const handleSectionNavigate = (sectionId) => {
     if (isDestinationsPage || isDestinationsRoute) {
+      navigate(`/#${sectionId}`);
+    } else if (isHomeRoute) {
       navigate(`/#${sectionId}`);
     } else {
       navigate(`/destinations#${sectionId}`);
