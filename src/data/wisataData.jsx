@@ -256,7 +256,7 @@ const wisataData = [
     lokasi: "Munjul, Majalengka",
     deskripsi:
       "Paralayang menawarkan pengalaman terbang yang memukau dengan pemandangan alam yang spektakuler. Memungkinkan para pengunjung untuk terbang melintasi perbukitan dan sawah yang hijau. Aktivitas ini cocok bagi para pecinta olahraga ekstrim maupun mereka yang ingin menikmati panorama indah dari ketinggian. Paralayang Majalengka menjadi destinasi wisata yang menarik bagi wisatawan lokal maupun mancanegara. Terdapat fasilitas yang kumplit mulai dari area parkir luas, toilet, gazebo, kantin makanan/minuman.",
-    gambar: "/assets/Pictaure4.jpg",
+    gambar: "/assets/Picturee1.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 22:00" },
     },
@@ -298,7 +298,7 @@ const wisataData = [
     lokasi: "Rajagaluh, Majalengka",
     deskripsi:
       "Cikadongdong River Tubing merupakan aktivitas wisata di sungai mengalir menggunakan ban karet sebagai sarananya. Sekilas, aktivitas wisata ini mirip arung jeram. Pengunjung dapat menikmati wisata Cikadongdong River Tubing ini bersama keluarga maupun teman sekantor untuk mengisi liburan dan mendapatkan pengalaman yang menyenangkan. Cikadongdong River Tubing akan menyusuri Sungai Cikadongdong yang memiliki arus tidak terlalu deras dan airnya jernih. Air sungai ini berasal dari Gunung Ceremai. Selama perjalanan menyusuri sungai, pengunjung juga dapat menikmati pemandang sekitar yang masih asri dan banyak batuan. Meskipun begitu, jalur Cikadongdong River Tubing dijamin aman karena pengelola telah mengatur jalur lintasan dan bebatuan. Pada beberapa bagian jalur akan ada penjaga untuk memastikan pengunjung tetap aman.Pengunjung yang ingin menjajal permainan ini diwajibkan menggunakan alat pengaman lengkap, seperti pelampung, helm, serta pelindung kaki dan tangan. Terdapat fasilitas yang kumplit mulai dari toilet, area parkir, dan jalur akses yang nyaman.",
-    gambar: "/assets/Pictures7.png",
+    gambar: "/assets/Picture8.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 16:00" },
     },
