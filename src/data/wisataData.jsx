@@ -33,7 +33,7 @@ const wisataData = [
     lokasi: "Argalingga, Majalengka",
     deskripsi:
       "Bumi perkemahan panten Argalingga merupakan wisata hutan pinus yang berada dibawah kaki Gunung Ciremai. Wisata ini berada di Desa Argalingga,Kecamatan Argapura,Kabupaten Majalengka. Ditempat wisata ini para pengunjung akan dimanjakan dengan deretan pohon pinus yang tersusun rapi. Oleh karena itu, buper Panten Argalingga sangat instagramable untuk dijadikan spot berswafoto. Terdapat fasilitas yang kumplit mulai dari tempat parkir, toilet,mushola, sewa hammock dan tenda, penyewaan sepeda motor listrik, dan warung makanan dan minuman.",
-    gambar: "/assets/Pictaaaaure1.jpgg",
+    gambar: "/assets/Pictaaaaure1.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 15:00" },
     },
