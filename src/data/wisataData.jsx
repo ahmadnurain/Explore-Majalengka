@@ -33,7 +33,7 @@ const wisataData = [
     lokasi: "Argalingga, Majalengka",
     deskripsi:
       "Bumi perkemahan panten Argalingga merupakan wisata hutan pinus yang berada dibawah kaki Gunung Ciremai. Wisata ini berada di Desa Argalingga,Kecamatan Argapura,Kabupaten Majalengka. Ditempat wisata ini para pengunjung akan dimanjakan dengan deretan pohon pinus yang tersusun rapi. Oleh karena itu, buper Panten Argalingga sangat instagramable untuk dijadikan spot berswafoto. Terdapat fasilitas yang kumplit mulai dari tempat parkir, toilet,mushola, sewa hammock dan tenda, penyewaan sepeda motor listrik, dan warung makanan dan minuman.",
-    gambar: "/assets/Buper-Cipanten-Argalingga-Argapura-Majalengka-Regency-West-Java.jpg",
+    gambar: "/public/assets/Pictaaaaure1.jpgg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 15:00" },
     },
@@ -61,7 +61,7 @@ const wisataData = [
     lokasi: "Argapura, Majalengka",
     deskripsi:
       "Pendakian via jalur Apuy Gunung Ciremai adalah jalur pendakian dari kabupaten Majalengka. Jalur Apuy ini merupakan jalur pendakian yang populer dan menjadi salah satu favorit bagi para pendaki. Selain jalur yang tidak terlalu panjang dan trek yang tidak terlalu ekstrim, pemandangan yang ada pada setiap perjalanan juga sangat indah. Gunung Ciremai adalah gunung tertinggi di Jawa Barat. Gunung ini memiliki ketinggian 3.978 mdpl ( meter diatas permukaan laut ). Gunung Ciremai berdiri diatas 3 kabupaten yaitu kabupaten Cirenon, Kabupaten Kuningan dan kabuoaten Majalengka, provinsi Jawa Barat. Jalur pendakian Gunung Ciremai terdiri dari 7 pos, dan banyak pendaki yang ngecamp di pos 5 dilanjutkan melakukan summit menuju puncak pada dini harinya. Para pendaki dapat mendaftar online dahulu sebelum pendakian dengan syarat cukup NIK dan No. HP. Terdapat fasilitas yang kumplit mulai dari kamar mandi, mushola, area parkir kendaraan, warung makanan dan kendaraan.",
-    gambar: "/assets/OIP (2).jpeg",
+    gambar: "/assets/Picture2aaaa.png",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 13:00" },
     },
@@ -75,7 +75,7 @@ const wisataData = [
     lokasi: "Argalingga, Majalengka",
     deskripsi:
       "Saung Gunung Beepark dibangun diatas tanah seluas 2 hektar yang berbatasan langsung dengan TNGC ( Taman Nasional Gunung Ciremai ). Beepark menjadi satu – satunya taman bunga terluas dan terfavorit di kabupaten Majalengka juga mempunyai fasilitas yang cukup lengkap. Seperti camping, ground, restoran sunda, penginapan, ruang serbaguna, dan lahan untuk berbagai acara seperti gathering family, gathering kantor, senam, dll.",
-    gambar: "/assets/OIP (233).jpeg",
+    gambar: "/assets/Pictuare3.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 17:00" },
     },
@@ -105,7 +105,7 @@ const wisataData = [
       "Puncak Sawiah menjadi destinasi wisata baru di Majalengka Jawa Barat yang rekomended untuk anda kunjungi ketika ingin berlibur. Salah satu tempat dimana anda bisa merefresh jiwa dan pikiran yang penat akan beban pekerjaan maupun suasana perkotaan. Nikmati keindahan di Puncak Sawiah untuk perjalanan liburan yang tak terlupakan di Majalengka. Lokasinya yang ada di kawasan peginginagn membuat udara yang ada di tempat ini dangan segar dan menyejukan. Sajian spot foto yang instagramable dengan landscape pegunungan dan pemandangan hijau akan membawa sensasi perjalanan liburan anda akan semakin berkualitas dan menyenangkan. Pucak Sawiah tempat wisata alam di Majalengka yang menawarkan keindahan alam dari ketinggian, seperti arean persawahan, pegunungan serta udara yang sejuk. Terdapat fasilitas yang kumplit mulai dari warung, mushola, toilet, dan area parkir yang luas.",
     gambar: "/assets/Objek-wisata-Puncak-Sawiyah.md.jpg",
     jadwal: {
-      Senin: { sesi: "Senin - Minggu", waktu: "12:00 - 17:00" },
+      Senin: { sesi: "Senin - Minggu", waktu: "8:00 - 17:00" },
     },
     harga: "Rp 10,000/orang",
     mapsUrl:
@@ -117,7 +117,7 @@ const wisataData = [
     lokasi: "Cipulus, Majalengka",
     deskripsi:
       "Bukit Kanaga terletak di kaki gunung ciremai bagian barat yang masih merupakan bagiandari kawasan TNGC tepatnya di Blok Ciinjuk Desa Cipulus, Kecamatan Cikijing, Kabupaten Majalengka, Jawa Barat dengan ketinggian kurang lebih 1300 hingga 1450 mdpl. Di Bukit Kanaga pengunjung bjsa menikmati alan dan pesona khas agraris. Hutan pinus menyajikan udara yang sejuk dan segar dengan wangi yang khas. Selain hutan pinus terdapat pemandangan terasering dari perkebunan warga. Warga di daerah ini umumnya memiliki kebun sayur sehingga menambah keindahan pemandangan. Lokasi wisata Bukit Kanaga memiliki hawa yang sejuk dan diselimuti oleh kabut tipis. Cocok untuk pecinta fotografi yang berkaitan dengan alam. Dan pada hari yang cerah, bukin kanaga menawarkan pemandangan langit biru dan terasering yang indah. Terdapat fasilitas yang kumplit mulai dari mushola, playground, toilet, spot foto, warung penjual makanan, dan gazebo.",
-    gambar: "/assets/maxresdefault (1).jpg",
+    gambar: "/assets/Pictursssse4.png",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 17:00" },
     },
@@ -158,7 +158,7 @@ const wisataData = [
     nama: "Jembar Water Park ",
     lokasi: "Ranji Wetan, Majalengka",
     deskripsi: "Jembar water park ini taman air unik dengan seluncur berkelok, kolam renang luas, dan patung dinosaurus besar yang berwarna warni. Terdapat fasilitas yang kumplit mulai dari area parkir, toilet, mushola, kantin, gazebo. ",
-    gambar: "/assets/444.jpeg",
+    gambar: "/assets/Pictusssre5.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 17:00" },
     },
@@ -230,9 +230,9 @@ const wisataData = [
       "Curug Tapak Kuda memiliki tipe air terjun yang berunduk. Sebenarnya curug ini mempunyai nama lain yaitu Curug Citerus dan Curug Tapak Kuda. Akan tetapi, karena lokasinya yang berada di Dusun Tapak Kuda, maka masyarakat sekitar dan juga wisatawan menyebutnya sebagai Curug Tapak Kuda. Wisata air terjun ini memiliki ketinggian kurang lebih 20 meter. Salah satu yang menjadi keunikan adalah memiliki lima undakan. Aliran airnya yang masih bersih memberikan kesegaran tersendiriketika wisatawan membasuh wajahnya disini. Keindahan alam di sekitar air terjun sawah, bukit serta gunung yang memberikan pemandangan yang sangat indah. Terdapat fasilitas yang kumplit mulai dari gazebo untuk tempat bersantai, toilet, dan area parkir yang luas",
     gambar: "/assets/Pictuare3.jpg",
     jadwal: {
-      Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 22:00" },
+      Senin: { sesi: "Senin - Minggu", waktu: "08:00" },
     },
-    harga: "Rp 10,000/orang",
+    harga: "Gratis",
     mapsUrl:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.2344863629583!2d108.17861119999999!3d-6.9816329999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f31a8eed93cdb%3A0xe3ca4e7527c45c49!2sCurug%20Kapak%20Kuda!5e0!3m2!1sid!2sid!4v1734596766910!5m2!1sid!2sid",
   },
@@ -314,7 +314,7 @@ const wisataData = [
       "Patilasan Prabu Siliwangi berada di desa Pajajar, Kec. Rajagaluh Kabupaten Majalengka. Yang berada di kaki gunung ciremai sekitar 19 KM dari pusat kota Majalengka. Menurut cerita turun temurun dtw prabu siliwangi adalah tapak tilas atang pasanggrahan raja dari kerajaan pajajar yaitu Prabu Siliwangi dan menjadi salah satu dtw tertua di Majalengka yang mulai dikekola pada tahun 90an, berbasis wisata alam dan minat khusus religi, terdapat 2 danau dan 2 mata air serta pasanggrahan/makom, kolam renang anak, dan ikan terapi serta camping ground. Terdapat fasilitas yang kumplit mulai dari area parkir, warung makanan/minuman, toilet",
     gambar: "/assets/Picturae9.jpg",
     jadwal: {
-      Senin: { sesi: "Senin - Minggu", waktu: "06:00 - 00:00" },
+      Senin: { sesi: "Senin - Minggu", waktu: "24 jam" },
     },
     harga: "Rp 15,000/orang",
     mapsUrl:
@@ -342,7 +342,7 @@ const wisataData = [
       "Tempat wisata ini merupakan hasil dari wujud kerjasan antara pemuda serta masyarakat setempat yang mengelola secara mandiri. Wisata ini merupakan destinasi baru yang booming pada tahun 2017 yang lalu. Meskipun baru, lokasi ini jadi perburuan netizen. Gunung Ciwaru menyuguhkan panorama hutan pinus serta bisa melihat gunung ciremai. Buat kamu yang ingin menyaksikan keindahan dari panorama gunung ciremai dengan kabut bisa datang di pagi ataupun sore hari. Terdapat fasilitas yang lengkap mulai dari area parkir, gazebo, warung makanan/minuman, toilet, mushola, penyewaan alat berkemah.",
     gambar: "/assets/Pictuare11.jpg",
     jadwal: {
-      Senin: { sesi: "Senin - Minggu", waktu: "06:00 - 16:00" },
+      Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 16:00" },
     },
     harga: "Rp 15,000/orang",
     mapsUrl:
@@ -356,7 +356,7 @@ const wisataData = [
       "Wisata air Sharongghe River Tubing berada di Desa Sadomas, Kecamatan Rajagaluh, Kabupaten Majalengka, Jawa Barat. Wisata Air Sharongghe atau Sharongghe River Tubing adalah wisata yang disebut menantang karena jalur destinasi alamnya melalui sungai.Nantinya wisatawan akan dapat menikmati tantangan wisata air ini dengan menelusuri sungai yang dikelilingi batu-batu besar. Namun ketika menjelang finish, seluruh perjuangan melintasi bahaya terbayar lunas. Wisatawan bisa bersantai menikmati laju perahu ban yang tenang.Sepanjang perjalanan, wisatawan disuguhi pemandangan mempesona, mulai dari pohon bambu yang rimbun, ladang yang menghijau, hingga alam pedeasri, Seluruhnya masih asri.Terdapat fasilitas yang kumplit mulai dari area parkir, taman bermain anak, toilet, kantin. ",
     gambar: "/assets/Pictuare12.jpg",
     jadwal: {
-      Senin: { sesi: "Senin - Minggu", waktu: "06:00 - 17:00" },
+      Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 17:00" },
     },
     harga: "Rp 5,000/orang",
     mapsUrl:
@@ -370,7 +370,7 @@ const wisataData = [
       "Situ janawi merupakan tempat wisata berupa telaga kecil yang mempunyai karakteristik tersendiri yang terletak di kaki gunung ciremai. Air nya seger dan asri dan pemandangan yang akan membuat anda kembali merasa segar. Terdapat fasilitas yang kumplit mulai dari area parkir, toilet, warung makanan/minuman, pelampung. ",
     gambar: "/assets/Pictaure13.png",
     jadwal: {
-      Senin: { sesi: "Senin - Minggu", waktu: "06:00 - 18:00" },
+      Senin: { sesi: "Senin - Minggu", waktu: "08:00 - 18:00" },
     },
     harga: "Rp 10,000/orang",
     mapsUrl:
