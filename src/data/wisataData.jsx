@@ -75,7 +75,7 @@ const wisataData = [
     lokasi: "Argalingga, Majalengka",
     deskripsi:
       "Saung Gunung Beepark dibangun diatas tanah seluas 2 hektar yang berbatasan langsung dengan TNGC ( Taman Nasional Gunung Ciremai ). Beepark menjadi satu – satunya taman bunga terluas dan terfavorit di kabupaten Majalengka juga mempunyai fasilitas yang cukup lengkap. Seperti camping, ground, restoran sunda, penginapan, ruang serbaguna, dan lahan untuk berbagai acara seperti gathering family, gathering kantor, senam, dll.",
-    gambar: "/assets/Pictuare3.jpg",
+    gambar: "/assets/Pictuaaare3.jpg",
     jadwal: {
       Senin: { sesi: "Senin - Minggu", waktu: "09:00 - 17:00" },
     },
